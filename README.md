@@ -1,0 +1,2 @@
+# Advanced-Lane-Detection
+In the Advanced Driver assistive systems and it improves the vehicle's active safe driving. A wholesome lane detection method which is based on computer vision techniques, is introduced. The lane boundaries and its radius of curvatures and lane direction were detected from a stream of videos. This video footage was recorded from a camera mounted on the top of a vehicle. We have corrected the camera distortion in the input frame
